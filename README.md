@@ -3,6 +3,7 @@
 Welcome to my corner!
 
 I'm Keith Rincon a self-taught Front-end web developer from 🇺🇸 **California, USA** and 🇲🇽 **Jalsico, Mexico.**
+## ⚡ Technologies
 
 
 <!--
