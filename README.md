@@ -22,7 +22,6 @@ I'm Keith Rincon, or you can call me Kiki. I'm a Front-end Web Developer from �
 </div>
 
 <br>
-<br>
 
 <div align="center">
   
@@ -34,7 +33,6 @@ I'm Keith Rincon, or you can call me Kiki. I'm a Front-end Web Developer from �
 
 </div>
 
-<br>
 <br>
 
 <div align="center">
@@ -49,7 +47,6 @@ I'm Keith Rincon, or you can call me Kiki. I'm a Front-end Web Developer from �
 
 </div>
 
-<br>
 <br>
 
 <div align="center">
@@ -69,19 +66,3 @@ What did one statue 🗿 say to the other statue 🗿 at night?
 STATUE 🗿!? 
 
 </div>
-
-
-<!--
-**keithrincon/keithrincon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
