@@ -6,7 +6,8 @@ Learning how to code has been the most challenging thing I've ever done, even mo
 
 ## Fun facts:
 
-I'm a self-taught web developer with a work background in the restaurants. Also became the first in my family to graduate from college on my own.
+I'm a self-taught web developer with a work background in full service restaurants. 
+Also became the first in my family to graduate from college on my own.
 
 
 ## ⚡ Technologies
