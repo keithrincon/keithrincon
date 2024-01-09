@@ -62,10 +62,10 @@ Also became the first in my family to graduate from college on my own.
 
 <div align="center">
 
-## Joke Of The Month:
-What did one statue 🗿 say to the other statue 🗿 at night?
+## 🗿 Joke Of The Month:
+What did one statue say to the other statue at night?
 
-STATUE 🗿!? 
+STATUE!? 
 
 </div>
 
