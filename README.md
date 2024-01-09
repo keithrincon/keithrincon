@@ -1,7 +1,6 @@
 <div align="center">
   
 ## Welcome to my corner! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-<br>
 </div>
 
 
