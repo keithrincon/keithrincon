@@ -18,9 +18,7 @@
 
 ## 🔭 Working on & 🌱 Learning :
 
-70% Complete [The Complete JavaScript Course 2024: From Zero to Expert! by Jonas Schmedtmann ](https://www.udemy.com/course/the-complete-javascript-course/)
-<br>
-I’m currently learning JavaScript
+70% Complete [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) by Jonas Schmedtmann
 
 </div>
 
