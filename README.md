@@ -13,6 +13,9 @@ I'm Keith Rincon a self-taught Front-end web developer from 🇺🇸 **Californi
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+[![Linkedin Badge](https://img.shields.io/badge/-keithrincon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keithrincon/)](https://www.linkedin.com/in/keithrincon/)![image](https://github.com/keithrincon/keithrincon/assets/54732548/dd126000-eb99-48b9-b7a4-422b38f95583)
+
+
 
 <!--
 **keithrincon/keithrincon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
