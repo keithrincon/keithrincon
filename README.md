@@ -33,9 +33,18 @@ Also became the first in my family to graduate from college on my own.
 
 </div>
 
+<div align="center">
+
 ## 📫 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-keithrincon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keithrincon/)](https://www.linkedin.com/in/keithrincon/) [![Instagram Badge](https://img.shields.io/badge/-keithrincon-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/keithrincon/)](https://instagram.com/keithrincon) [![Gmail Badge](https://img.shields.io/badge/-keithrincont@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keithrincont@gmail.com)](mailto:keithrincont@gmail.com)
+
+
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/keithrt3008) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/keithrincon/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:keithrincont@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+
+</div>
 
 ## Joke of the month:
 What did one statue say to the other statue at night?
