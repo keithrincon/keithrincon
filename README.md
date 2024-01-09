@@ -16,7 +16,7 @@ I'm Keith Rincon a self-taught Front-end web developer from 🇺🇸 **Californi
 
 <h3>Where to find me</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-keithrincon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keithrincon/)](https://www.linkedin.com/in/keithrincon/)[![Instagram Badge](https://img.shields.io/badge/-keithrincon-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/keithrincon/)](https://instagram.com/keithrincon)[![Gmail Badge](https://img.shields.io/badge/-keithrincont@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keithrincont@gmail.com)](mailto:keithrincont@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-keithrincon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keithrincon/)](https://www.linkedin.com/in/keithrincon/) [![Instagram Badge](https://img.shields.io/badge/-keithrincon-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/keithrincon/)](https://instagram.com/keithrincon) [![Gmail Badge](https://img.shields.io/badge/-keithrincont@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keithrincont@gmail.com)](mailto:keithrincont@gmail.com)
 
 
 
