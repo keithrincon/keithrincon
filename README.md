@@ -15,7 +15,7 @@ I'm Keith Rincon, or you can call me Kiki. I'm a Front-end Web Developer from �
 
 <div align="center">
 
-## 🔭 Working on:
+## 🔭 Working On:
 
 70% Complete [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) by Jonas Schmedtmann
 
@@ -23,7 +23,7 @@ I'm Keith Rincon, or you can call me Kiki. I'm a Front-end Web Developer from �
 
 <div align="center">
 
-## 📫 How to reach me:
+## 📫 How To Reach Me:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/keithrincon/) &nbsp;
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/keithrt3008) &nbsp;
@@ -44,7 +44,7 @@ I'm Keith Rincon, or you can call me Kiki. I'm a Front-end Web Developer from �
 
 <div align="center">
   
-## Fun facts:
+## Fun Facts:
 
 I'm a self-taught web developer with a work background in full service restaurants.<br>
 Also became the first in my family to graduate from college on my own.
@@ -53,7 +53,7 @@ Also became the first in my family to graduate from college on my own.
 
 <div align="center">
 
-## Joke of the month:
+## Joke Of The Month:
 What did one statue 🗿 say to the other statue 🗿 at night?
 
 STATUE 🗿!? 
