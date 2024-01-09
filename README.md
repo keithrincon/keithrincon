@@ -13,6 +13,16 @@ Learning how to code has been the most challenging thing I've ever done, even mo
 </div>
 
 <div align="center">
+
+## 📫 How to reach me:
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/keithrincon/) &nbsp;
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/keithrt3008) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:keithrincont@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+
+</div>
+
+<div align="center">
   
 ## 💻 My Tech Stack:
 <p align="center">
@@ -29,16 +39,6 @@ Learning how to code has been the most challenging thing I've ever done, even mo
 
 I'm a self-taught web developer with a work background in full service restaurants. 
 Also became the first in my family to graduate from college on my own.
-
-</div>
-
-<div align="center">
-
-## 📫 How to reach me:
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/keithrincon/) &nbsp;
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/keithrt3008) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:keithrincont@gmail.com?subject=Hello%20Jasper,%20From%20Github)
 
 </div>
 
