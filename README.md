@@ -4,12 +4,6 @@ I'm Keith Rincon, or you can call me Kiki. I'm a Front-end Web Developer from �
 
 Learning how to code has been the most challenging thing I've ever done, even more challenging than working 13-hour shifts on my feet all day and collaborating with family at the busiest Mexican Restaurant in California, which is called 🇲🇽 **Guadalajara Mexican Restaurant** in Redding. However, I won't ever quit learning because my ultimate goal is to secure a web developer position.
 
-## Fun facts:
-
-I'm a self-taught web developer with a work background in full service restaurants. 
-Also became the first in my family to graduate from college on my own.
-
-
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -21,6 +15,10 @@ Also became the first in my family to graduate from college on my own.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+## Fun facts:
+
+I'm a self-taught web developer with a work background in full service restaurants. 
+Also became the first in my family to graduate from college on my own.
 
 ## 📫 How to reach me:
 
