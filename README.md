@@ -16,7 +16,7 @@
 
 <div align="center">
 
-## 🔭 Working on & 🌱 Learning :
+## 🔭 Working on:
 
 70% Complete [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) by Jonas Schmedtmann
 
