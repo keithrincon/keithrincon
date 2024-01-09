@@ -1,4 +1,9 @@
-### Whats good!	😄
+## Hey! Whats good with you!	😄
+
+Welcome to my corner!
+I'm Keith Rincon a self-taught Front-end web developer from 🇺🇸 **California, USA** and 🇲🇽 **Jalsico, Mexico.**
+
+
 <!--
 **keithrincon/keithrincon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
