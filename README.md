@@ -17,6 +17,7 @@ Learning how to code has been the most challenging thing I've ever done, even mo
 ## 🔭 Working on & 🌱 Learning :
 
 70% Complete [The Complete JavaScript Course 2024: From Zero to Expert! by Jonas Schmedtmann ](https://www.udemy.com/course/the-complete-javascript-course/)
+<br>
 I’m currently learning JavaScript
 
 </div>
