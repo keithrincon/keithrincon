@@ -47,7 +47,7 @@
   
 ## Fun facts:
 
-I'm a self-taught web developer with a work background in full service restaurants. 
+I'm a self-taught web developer with a work background in full service restaurants.<br>
 Also became the first in my family to graduate from college on my own.
 
 </div>
