@@ -12,7 +12,12 @@ I'm Keith Rincon, or you can call me Kiki. I'm a Front-end Web Developer from ðŸ
 
 </div>
 
+
+<div align="center">
+
 70% Complete [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) by Jonas Schmedtmann
+
+</div>
 
 <div align="center">
   
