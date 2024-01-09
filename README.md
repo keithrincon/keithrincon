@@ -7,11 +7,15 @@ I'm Keith Rincon, or you can call me Kiki. I'm a Front-end Web Developer from �
 </div>
 
 <div align="center">
+  
 ## 🔭 Working On:
+
 </div>
+
 70% Complete [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) by Jonas Schmedtmann
 
 <div align="center">
+  
 ## 📫 How To Reach Me:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/keithrincon/) &nbsp;
