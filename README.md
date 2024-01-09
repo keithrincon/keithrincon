@@ -4,7 +4,7 @@ I'm Keith Rincon, or you can call me Kiki. I'm a Front-end Web Developer from �
 
 Learning how to code has been the most challenging thing I've ever done, even more challenging than working 13-hour shifts on my feet all day and collaborating with family at the busiest Mexican Restaurant in California, which is called 🇲🇽 **Guadalajara Mexican Restaurant** in Redding. However, I won't ever quit learning because my ultimate goal is to secure a web developer position.
 
-## ⚡ Technologies
+## 💻 My Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
