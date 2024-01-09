@@ -14,6 +14,15 @@ Learning how to code has been the most challenging thing I've ever done, even mo
 
 <div align="center">
 
+## 🔭 Working on & 🌱 Learning :
+
+- 70% Complete [The Complete JavaScript Course 2024: From Zero to Expert! by Jonas Schmedtmann ](https://www.udemy.com/course/the-complete-javascript-course/)
+- I’m currently learning <img src="https://skillicons.dev/icons?i=js" />
+
+</div>
+
+<div align="center">
+
 ## 📫 How to reach me:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/keithrincon/) &nbsp;
