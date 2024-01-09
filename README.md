@@ -1,8 +1,6 @@
 ## Welcome to my corner! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 I'm Keith Rincon, or you can call me Kiki. I'm a Front-end Web Developer from 🇺🇸 **California, USA**, and 🇲🇽 **Jalisco, Mexico**. I stumbled into coding during a lean launch business class in my final semester of college back in 2013. The project eventually led to helping revamp our family’s restaurant. In 2019, I had the idea of creating a sports-oriented social media platform and decided to build it while learning how to code.
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/8qzZxm4TDdXHEDSGD2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/republicrecords-drake-in-my-feelings-kiki-do-you-love-me-8qzZxm4TDdXHEDSGD2">via GIPHY</a></p>
-
 Learning how to code has been the most challenging thing I've ever done, even more challenging than working 13-hour shifts on my feet all day and collaborating with family at the busiest Mexican Restaurant in California, which is called 🇲🇽 **Guadalajara Mexican Restaurant** in Redding. However, I won't ever quit learning because my ultimate goal is to secure a web developer position.
 
 ## ⚡ Technologies
