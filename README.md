@@ -1,10 +1,6 @@
 <div align="center">
   
 ## Welcome To My Corner! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-</div>
-
-
-<div align="center">
 
 I'm Keith Rincon, or you can call me Kiki. I'm a Front-end Web Developer from 🇺🇸 **California, USA**, and 🇲🇽 **Jalisco, Mexico**. I stumbled into coding during a lean launch business class in my final semester of college back in 2013. The project eventually led to helping revamp our family’s restaurant. In 2019, I had the idea of creating a sports-oriented social media platform and decided to build it while learning how to code.
 <br>
