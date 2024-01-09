@@ -13,8 +13,12 @@ I'm Keith Rincon a self-taught Front-end web developer from 🇺🇸 **Californi
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+
+<h3>Where to find me</h3>
+
 [![Linkedin Badge](https://img.shields.io/badge/-keithrincon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keithrincon/)](https://www.linkedin.com/in/keithrincon/)
 
+[![Instagram Badge](https://img.shields.io/badge/-keithrincon-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/keithrincon/)](https://instagram.com/keithrincon)![image]
 
 
 <!--
