@@ -23,7 +23,6 @@ Learning how to code has been the most challenging thing I've ever done, even mo
 
 </div>
 
-
 <div align="center">
   
 ## Fun facts:
@@ -43,10 +42,14 @@ Also became the first in my family to graduate from college on my own.
 
 </div>
 
-## Joke of the month:
-What did one statue say to the other statue at night?
+<div align="center">
 
-STATUE!?
+## Joke of the month:
+What did one statue 🗿 say to the other statue 🗿 at night?
+
+STATUE 🗿!? 
+
+</div>
 
 
 <!--
