@@ -7,6 +7,8 @@ I'm Keith Rincon, or you can call me Kiki. I'm a Front-end Web Developer from ðŸ
 </div>
 
 <div align="center">
+<br>
+<br>
   
 ## ðŸ”­ Working On:
 
@@ -18,9 +20,10 @@ I'm Keith Rincon, or you can call me Kiki. I'm a Front-end Web Developer from ðŸ
 70% Complete [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) by Jonas Schmedtmann
 
 </div>
+
 <br>
 <br>
-<br>
+
 <div align="center">
   
 ## ðŸ“« How To Reach Me:
@@ -30,9 +33,10 @@ I'm Keith Rincon, or you can call me Kiki. I'm a Front-end Web Developer from ðŸ
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:keithrincont@gmail.com?subject=Hello%20Jasper,%20From%20Github)
 
 </div>
+
 <br>
 <br>
-<br>
+
 <div align="center">
   
 ## ðŸ’» My Tech Stack:
@@ -44,7 +48,7 @@ I'm Keith Rincon, or you can call me Kiki. I'm a Front-end Web Developer from ðŸ
 </p>
 
 </div>
-<br>
+
 <br>
 <br>
 
