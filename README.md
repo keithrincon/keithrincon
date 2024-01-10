@@ -72,5 +72,5 @@ STATUE!?
 <br>
 
 ## 🏆 My Stats:
+<img height=175 alt="GitHub Stats" src="https://raw.githubusercontent.com/keithrincon/github-stats-transparent/a39397d90eecbe76bc0ffd041f72c8892e9ff771/generated/languages.svg" />&nbsp;&nbsp;
 
-[https://github.com/keithrincon/github-stats-transparent/blob/output/generated/languages.svg](https://raw.githubusercontent.com/keithrincon/github-stats-transparent/a39397d90eecbe76bc0ffd041f72c8892e9ff771/generated/languages.svg)https://raw.githubusercontent.com/keithrincon/github-stats-transparent/a39397d90eecbe76bc0ffd041f72c8892e9ff771/generated/languages.svg
