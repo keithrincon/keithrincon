@@ -24,6 +24,15 @@ I'm Keith Rincon, or you can call me Kiki. I'm a Front-end Web Developer from �
 <br>
 
 <div align="center">
+
+## 🏆 My Stats:
+<img height=175 alt="GitHub Stats" src="https://raw.githubusercontent.com/keithrincon/github-stats-transparent/a39397d90eecbe76bc0ffd041f72c8892e9ff771/generated/languages.svg" />&nbsp;&nbsp;
+<img height=175 alt="GitHub Stats" src="https://raw.githubusercontent.com/keithrincon/github-stats-transparent/a39397d90eecbe76bc0ffd041f72c8892e9ff771/generated/overview.svg" />&nbsp;&nbsp;
+</div>
+
+<br>
+
+<div align="center">
   
 ## 📫 How To Reach Me:
 
@@ -69,12 +78,4 @@ STATUE!?
 
 </div>
 
-<br>
-
-<div align="center">
-
-## 🏆 My Stats:
-<img height=175 alt="GitHub Stats" src="https://raw.githubusercontent.com/keithrincon/github-stats-transparent/a39397d90eecbe76bc0ffd041f72c8892e9ff771/generated/languages.svg" />&nbsp;&nbsp;
-<img height=175 alt="GitHub Stats" src="https://raw.githubusercontent.com/keithrincon/github-stats-transparent/a39397d90eecbe76bc0ffd041f72c8892e9ff771/generated/overview.svg" />&nbsp;&nbsp;
-</div>
 <br>
