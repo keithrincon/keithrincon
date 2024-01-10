@@ -70,8 +70,9 @@ STATUE!?
 </div>
 
 <br>
+<p>
 
 ## 🏆 My Stats:
 <img height=175 alt="GitHub Stats" src="https://raw.githubusercontent.com/keithrincon/github-stats-transparent/a39397d90eecbe76bc0ffd041f72c8892e9ff771/generated/languages.svg" />&nbsp;&nbsp;
 <img height=175 alt="GitHub Stats" src="https://raw.githubusercontent.com/keithrincon/github-stats-transparent/a39397d90eecbe76bc0ffd041f72c8892e9ff771/generated/overview.svg" />&nbsp;&nbsp;
-
+</p>
