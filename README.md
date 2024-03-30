@@ -88,8 +88,7 @@ I'm Keith Rincon, a self-taught Frontend Developer with a passion for crafting e
   
 ## ✨ Fun Facts:
 
-I'm a self-taught web developer with a work background in full service restaurants.<br>
-Also became the first in my family to graduate from college on my own.
+I ❤️ Futbol
 
 </div>
 
