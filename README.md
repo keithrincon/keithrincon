@@ -2,16 +2,27 @@
   
 ## Hi there! Welcome To My GitHub profile! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 I'm Keith Rincon, a self-taught Frontend Developer with a passion for crafting engaging web experiences. Specializing in JavaScript, React.js, HTML5, CSS3, Bootstrap, Git, and GitHub, I've honed my skills through self-directed learning and hands-on projects.
+
 <br>
+
 🌟 As a self-taught developer, I bring a unique perspective, resilience, and a strong drive for continuous improvement. I've embarked on this journey fueled by my passion for technology and my desire to make a meaningful impact in the industry.
+
 <br>
+
 💼 Currently seeking my first role as a Frontend Developer, I'm eager to apply my expertise and contribute to dynamic teams and exciting projects. My journey as a self-taught developer has equipped me with the adaptability and resourcefulness needed to thrive in fast-paced environments.
+
 <br>
+
 🚀 I'm deeply committed to crafting elegant and intuitive user interfaces while ensuring frontend performance and accessibility. Leveraging Git and GitHub, I'm proficient in version control and collaborative development practices.
+
 <br>
+
 📚 While my path may have been self-directed, I'm dedicated to ongoing learning and staying abreast of the latest technologies and best practices. I'm constantly seeking opportunities to expand my skill set and deepen my understanding of frontend development.
+
 <br>
+
 📫 I'm excited about the possibility of connecting with fellow developers, mentors, and potential employers. If you're looking for a self-motivated and driven Frontend Developer eager to make their mark in the tech industry, let's connect!
+
 <br>
 
 
