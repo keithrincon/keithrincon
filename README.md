@@ -1,9 +1,20 @@
 <div align="center">
   
-## Welcome To My Corner! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-I'm Keith Rincon, or you can call me Kiki. I'm a Front-end Web Developer from 🇺🇸 **California, USA**, and 🇲🇽 **Jalisco, Mexico**. I stumbled into coding during a lean launch business class in my final semester of college back in 2013. The project eventually led to helping revamp our family’s restaurant. In 2019, I had the idea of creating a sports-oriented social media platform and decided to build it while learning how to code.
+## Hi there! Welcome To My GitHub profile! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+I'm Keith Rincon, a self-taught Frontend Developer with a passion for crafting engaging web experiences. Specializing in JavaScript, React.js, HTML5, CSS3, Bootstrap, Git, and GitHub, I've honed my skills through self-directed learning and hands-on projects.
 <br>
-  Learning how to code has been the most challenging thing I've ever done, even more challenging than working 13-hour shifts on my feet all day and collaborating with family at the busiest Mexican Restaurant in California, which is called 🇲🇽 **Guadalajara Mexican Restaurant** in Redding. However, I won't ever quit learning because my ultimate goal is to secure a web developer position.
+🌟 As a self-taught developer, I bring a unique perspective, resilience, and a strong drive for continuous improvement. I've embarked on this journey fueled by my passion for technology and my desire to make a meaningful impact in the industry.
+<br>
+💼 Currently seeking my first role as a Frontend Developer, I'm eager to apply my expertise and contribute to dynamic teams and exciting projects. My journey as a self-taught developer has equipped me with the adaptability and resourcefulness needed to thrive in fast-paced environments.
+<br>
+🚀 I'm deeply committed to crafting elegant and intuitive user interfaces while ensuring frontend performance and accessibility. Leveraging Git and GitHub, I'm proficient in version control and collaborative development practices.
+<br>
+📚 While my path may have been self-directed, I'm dedicated to ongoing learning and staying abreast of the latest technologies and best practices. I'm constantly seeking opportunities to expand my skill set and deepen my understanding of frontend development.
+<br>
+📫 I'm excited about the possibility of connecting with fellow developers, mentors, and potential employers. If you're looking for a self-motivated and driven Frontend Developer eager to make their mark in the tech industry, let's connect!
+<br>
+
+
 </div>
 
 <div align="center">
@@ -28,7 +39,8 @@ I'm Keith Rincon, or you can call me Kiki. I'm a Front-end Web Developer from �
 
 <div align="center">
   
-## 📫 How To Reach Me:
+## 📫 Feel free to reach out to me via:
+ I'm enthusiastic about the prospect of collaborating on innovative projects and contributing to the vibrant tech community.
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/keithrincon/) &nbsp;
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/keithrt3008) &nbsp;
