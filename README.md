@@ -25,7 +25,6 @@ I'm Keith Rincon, a self-taught Frontend Developer with a passion for crafting e
 
 <br>
 
-
 </div>
 
 <div align="center">
