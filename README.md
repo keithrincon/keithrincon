@@ -1,60 +1,74 @@
 <div align="center">
   
-## Hi there! Welcome To My GitHub profile! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-I'm Keith Rincon, a self-taught Frontend Developer with a passion for crafting engaging web experiences. Specializing in JavaScript, React.js, HTML5, CSS3, Bootstrap, Git, and GitHub, I've honed my skills through self-directed learning and hands-on projects.
+## Welcome To My GitHub! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"> 
 
+I'm Keith Rincon, a full-stack web developer specializing in HTML5, CSS3, JavaScript, React.js, and Next.js.
+<br>
+I love my family and friends.
 <br>
 
-🌟 As a self-taught developer, I bring a unique perspective, resilience, and a strong drive for continuous improvement. I've embarked on this journey fueled by my passion for technology and my desire to make a meaningful impact in the industry.
-
+🚀 Striving to get 1% better in tech every day.
 <br>
 
-💼 Currently seeking my first role as a Frontend Developer, I'm eager to apply my expertise and contribute to dynamic teams and exciting projects. My journey as a self-taught developer has equipped me with the adaptability and resourcefulness needed to thrive in fast-paced environments.
-
+💼 My previous career was in the restaurant industry, where I helped run our family's successful restaurants.
 <br>
 
-🚀 I'm deeply committed to crafting elegant and intuitive user interfaces while ensuring frontend performance and accessibility. Leveraging Git and GitHub, I'm proficient in version control and collaborative development practices.
-
+🌍 Passions: self-improvement, tech, biking, pickleball, gym, soccer, football, photography, and traveling.
 <br>
 
-📚 While my path may have been self-directed, I'm dedicated to ongoing learning and staying abreast of the latest technologies and best practices. I'm constantly seeking opportunities to expand my skill set and deepen my understanding of frontend development.
-
-<br>
-
-📫 I'm excited about the possibility of connecting with fellow developers, mentors, and potential employers. If you're looking for a self-motivated and driven Frontend Developer eager to make their mark in the tech industry, let's connect!
-
+📚 Bachelor's degree in Business Administration, and I've enrolled in a variety of web development courses online.
 <br>
 
 </div>
-
-<div align="center">
-
-<br>
-  
-## 🔭 Working On:
-
-</div>
-
-
-<div align="center">
-
-
-20% Complete [The Ultimate React Course 2024: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/) by Jonas Schmedtmann
-
-75% Complete [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) by Jonas Schmedtmann
-
-</div>
-
-<br>
 
 <div align="center">
   
-## 📫 Feel free to reach out to me via:
- I'm enthusiastic about the prospect of collaborating on innovative projects and contributing to the vibrant tech community.
-
+## Contact:
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:keithrincont@gmail.com?subject=Hello%20Jasper,%20From%20Github) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/keithrincon/) &nbsp;
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/keithrt3008) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:keithrincont@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+[![discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/kiki3008) 
+# [🖥️  Portfolio](https://keithrincon.com/)
+
+</div>
+
+<div align="center">
+  
+## Courses:
+
+</div>
+
+
+<div align="center">
+
+Certificate [Meta Front-End Developer (9 Certificates)](https://www.coursera.org/account/accomplishments/certificate/YHUCGQMJ2YKU) by Meta
+<br>
+Certificate [ HTML&CSS Tutorial and Projects Course (Flexbox&Grid) ](https://www.udemy.com/certificate/UC-dbd4d841-9a41-4806-8a55-0a421b8bdaa9/) by John Smilga
+<br>
+Certificates [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/certificate/UC-d7df6ef5-eee9-4af2-a920-99cff5966bb1/) by Jonas Schmedtmann
+<br>
+Enrolled [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/share/101qYw3@iZjhNs-l0JDuuC_cbek9YGzzKhmKtxWLAPKlQpwDNro11meKMsF1YWcPG5V_YN95/) by Dr. Angela Yu
+<br>
+Enrolled [The Web Developer Bootcamp 2024](https://www.udemy.com/share/101W923@RNaUkkIBlVW_2mXdarglDBVCCRPXo2WOQPR0lPTenJJ6_W1LmCxSRb-Xumi6eCCz/) by Colt Steele
+<br>
+Enrolled [Advanced Responsive Website Design: HTML, CSS, & Bootstrap](https://www.udemy.com/share/101K8w3@HjyHSgY6vCsMnHTH4blkygfbE6_9Y3Q-G1KTJ1aBVDX3jauZFO3fDp7_MM6YEMjN/) by Drew Ryan
+<br>
+Enrolled [Web Design for Web Developers: Build Beautiful Websites!](https://www.udemy.com/share/101rgE3@1VlU4iFR0_xBbC8B90Xzc8OnYQhfCh1gNKqWfTQMu4yrc9y5wnBBbbcn1RXZ2DZdsg==/) by Jonas Schmedtmann
+<br>
+Enrolled [Javascript Tutorial and Projects Course](https://www.udemy.com/share/101uNA3@-2vT9EVqWG1mnRo2UICAxwm4XFNR1z-WJxoOWBfhU4_IiA3IBmWdS5RXR8j897O0/) by John Smilga
+<br>
+Enrolled [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/share/101WeY3@vzK3RVM_PSNo02n4Y1J3VK88dsgTk8ghZqqUzuy38qY0OcCQhs-wyIezE0eQszGZxw==/) by Jonas Schmedtmann
+<br>
+Enrolled [The Ultimate React Course 2024: React, Next.js Redux & More](https://www.udemy.com/share/108PTK3@UWHfY9ktHT-_YUw_YNAzLNCSNNGKmiNd2rZYTuVFY8rcWoUxuh-H2J1qwRfNE7KpHg==/) by Jonas Schmedtmann
+<br>
+Enrolled [Complete React, Next.js & TypeScript Projects Course 2024 ](https://www.udemy.com/share/101uUA3@2BwIvNF4TAbt029phMyD1gssuJisfr1fmXAJvQev-o_ahn3bqRAstnMjqWmW8Fqm/) by John Smilga
+<br>
+Enrolled [Node.js, Express, MongoDB & More: The Complete Bootcamp](https://www.udemy.com/share/101Ycs3@-Gu_L5jrG0WSPoIpW43mapdfom5EHKESKxWYPsMCnXf19-aHnmWU-Ttz3KrTw14dZg==/) by Jonas Schmedtmann
+<br>
+Enrolled [Mastering Next.js - Build Airbnb Clone from Scratch (2024)](https://www.udemy.com/share/10bBox3@FvvcSwBFHwGNXXx6DZ3LU_m-CbWfn9CQ1Q_87lJoaO7MQaAloNGCU4IaFMGnVKFqPg==/) by John Smilga
+<br>
+Enrolled [Harvard CS50 – Full Computer Science University Course](https://www.youtube.com/watch?v=8mAITcNt710) by David J. Malan
+<br>
 
 </div>
 
@@ -62,11 +76,11 @@ I'm Keith Rincon, a self-taught Frontend Developer with a passion for crafting e
 
 <div align="center">
   
-## 💻 My Tech Stack:
+## Tech Stack:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,bootstrap,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,express,figma,git,github,ai,instagram,jquery,mongodb,bootstrap,netlify,nodejs,npm,ps,postman,redux,tailwind,ts,vercel,vite,vscode,apple" />
   </a>
 </p>
 
@@ -76,30 +90,12 @@ I'm Keith Rincon, a self-taught Frontend Developer with a passion for crafting e
 
 <div align="center">
 
-## 🏆 My Stats:
+## Stats:
 <img height=175 alt="GitHub Stats" src="https://raw.githubusercontent.com/keithrincon/github-stats-transparent/a39397d90eecbe76bc0ffd041f72c8892e9ff771/generated/languages.svg" />&nbsp;&nbsp;
 <img height=175 alt="GitHub Stats" src="https://raw.githubusercontent.com/keithrincon/github-stats-transparent/a39397d90eecbe76bc0ffd041f72c8892e9ff771/generated/overview.svg" />&nbsp;&nbsp;
 </div>
 
 <br>
 
-<div align="center">
-  
-## ✨ Fun Facts:
 
-I ❤️ Futbol
 
-</div>
-
-<br>
-
-<div align="center">
-
-## 🗿 Joke Of The Month:
-What did one statue say to the other statue at night?
-
-STATUE!? 
-
-</div>
-
-<br>
