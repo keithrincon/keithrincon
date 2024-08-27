@@ -80,7 +80,7 @@ Enrolled [Harvard CS50 – Full Computer Science University Course](https://www.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,express,figma,git,github,ai,instagram,jquery,mongodb,bootstrap,netlify,nodejs,npm,ps,postman,redux,tailwind,ts,vercel,vite,vscode,apple" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,express,figma,git,github,ai,instagram,mongodb,bootstrap,netlify,nodejs,npm,ps,postman,redux,tailwind,ts,vercel,vite,vscode,apple" />
   </a>
 </p>
 
