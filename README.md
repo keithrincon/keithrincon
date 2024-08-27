@@ -53,7 +53,7 @@ Enrolled [The Web Developer Bootcamp 2024](https://www.udemy.com/share/101W923@R
 <br>
 Enrolled [Advanced Responsive Website Design: HTML, CSS, & Bootstrap](https://www.udemy.com/share/101K8w3@HjyHSgY6vCsMnHTH4blkygfbE6_9Y3Q-G1KTJ1aBVDX3jauZFO3fDp7_MM6YEMjN/) by Drew Ryan
 <br>
-Enrolled [Web Design for Web Developers: Build Beautiful Websites!](https://www.udemy.com/share/101rgE3@1VlU4iFR0_xBbC8B90Xzc8OnYQhfCh1gNKqWfTQMu4yrc9y5wnBBbbcn1RXZ2DZdsg==/) by Jonas Schmedtmann
+Completed [Web Design for Web Developers: Build Beautiful Websites!](https://www.udemy.com/share/101rgE3@1VlU4iFR0_xBbC8B90Xzc8OnYQhfCh1gNKqWfTQMu4yrc9y5wnBBbbcn1RXZ2DZdsg==/) by Jonas Schmedtmann
 <br>
 Enrolled [Javascript Tutorial and Projects Course](https://www.udemy.com/share/101uNA3@-2vT9EVqWG1mnRo2UICAxwm4XFNR1z-WJxoOWBfhU4_IiA3IBmWdS5RXR8j897O0/) by John Smilga
 <br>
