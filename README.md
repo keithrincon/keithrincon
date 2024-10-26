@@ -65,7 +65,7 @@ Enrolled [Complete React, Next.js & TypeScript Projects Course 2024 ](https://ww
 <br>
 Enrolled [Node.js, Express, MongoDB & More: The Complete Bootcamp](https://www.udemy.com/share/101Ycs3@-Gu_L5jrG0WSPoIpW43mapdfom5EHKESKxWYPsMCnXf19-aHnmWU-Ttz3KrTw14dZg==/) by Jonas Schmedtmann
 <br>
-Enrolled [Mastering Next.js - Build Airbnb Clone from Scratch (2024)](https://www.udemy.com/share/10bBox3@FvvcSwBFHwGNXXx6DZ3LU_m-CbWfn9CQ1Q_87lJoaO7MQaAloNGCU4IaFMGnVKFqPg==/) by John Smilga
+Certificate [Mastering Next.js - Build Airbnb Clone from Scratch (2024)](https://www.udemy.com/certificate/UC-99638a41-41cc-4afb-b451-aef3cefeb9be/) by John Smilga
 <br>
 Enrolled [Harvard CS50 – Full Computer Science University Course](https://www.youtube.com/watch?v=8mAITcNt710) by David J. Malan
 <br>
